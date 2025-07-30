@@ -6,7 +6,6 @@ Olá, eu sou Davi Domingos de Oliveira!
 *   Moro em Maceió, Alagoas, Brasil.
 *   Sou apaixonado pela resolução de problemas com base matemática, buscando sempre entender a lógica por trás dos desafios.
 *   Nas horas vagas, sou administrador do podcast Idoso POD+.
-*   Gosto também de estar em contato com a natureza.
 
 ## O que estou estudando
 
