@@ -1,4 +1,4 @@
-Olá, eu sou o Davi Domingos!
+Olá, eu sou Davi Domingos de Oliveira!
 
 ## Sobre Mim
 
