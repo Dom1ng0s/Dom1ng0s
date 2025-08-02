@@ -11,9 +11,9 @@ Olá, eu sou Davi Domingos de Oliveira!
 
 Atualmente, meu foco na faculdade está em aprofundar meus conhecimentos nas seguintes áreas:
 
-*   Linguagem Python: Aprimorando minhas habilidades para desenvolvimento e análise.
-*   Banco de Dados: Entendendo como estruturar e gerenciar informações de forma eficiente.
-*   Estrutura de Dados: Construindo a base essencial para criar algoritmos performáticos.
+* **Linguagem Python:** Aprimorando minhas habilidades para desenvolvimento e análise.
+* **Banco de Dados:** Entendendo como estruturar e gerenciar informações de forma eficiente, **com foco atual em MySQL**.
+* **Estrutura de Dados:** Construindo a base essencial para criar algoritmos performáticos.
 
 ## Minhas Habilidades
 
