@@ -15,7 +15,7 @@ Atualmente, meu foco na faculdade está em aprofundar meus conhecimentos nas seg
 * **Banco de Dados:** Entendendo como estruturar e gerenciar informações de forma eficiente, **com foco atual em MySQL**.
 * **Estrutura de Dados:** Construindo a base essencial para criar algoritmos performáticos.
 
-## Minhas Habilidades
+## Minhas Habilidades 
 
 Estas são as tecnologias com as quais tenho trabalhado:
 
