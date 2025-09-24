@@ -23,7 +23,7 @@ Estas são as tecnologias com as quais tenho trabalhado:
 
 [![GitHub Stats de Dom1ng0s](https://github-readme-stats.vercel.app/api?username=Dom1ng0s&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Dom1ng0s&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dom1ng0s&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 
