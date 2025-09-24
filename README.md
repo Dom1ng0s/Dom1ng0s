@@ -23,7 +23,7 @@ Estas são as tecnologias com as quais tenho trabalhado:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dom1ng0s&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
+
 
 
 
