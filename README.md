@@ -23,6 +23,7 @@ Estas são as tecnologias com as quais tenho trabalhado:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dom1ng0s&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dom1ng0s)
 
 
 
