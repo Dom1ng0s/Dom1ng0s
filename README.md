@@ -19,7 +19,7 @@ Atualmente, meu foco na faculdade está em aprofundar meus conhecimentos nas seg
 
 Estas são as tecnologias com as quais tenho trabalhado:
 
-*   Linguagens de Programação: C, Python, My Sql
+*   Linguagens de Programação: C, Python, Go
 
 [![GitHub Stats de Dom1ng0s](https://github-readme-stats.vercel.app/api?username=Dom1ng0s&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
