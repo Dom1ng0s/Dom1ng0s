@@ -1,34 +1,54 @@
-Olá, eu sou Davi Domingos de Oliveira!!!
+# Olá, eu sou Davi Domingos de Oliveira! 👋
 
-## Sobre Mim
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-*   Atualmente sou estudante de Ciência da Computação na Universidade Federal de Alagoas (UFAL).
-*   Moro em Maceió, Alagoas, Brasil.
-*   Sou apaixonado pela resolução de problemas com base matemática, buscando sempre entender a lógica por trás dos desafios.
-*   Nas horas vagas, sou administrador do podcast Idoso POD+.
+---
 
-## O que estou estudando
+## 🚀 Sobre Mim
+
+*   🎓 Estudante de Ciência da Computação na Universidade Federal de Alagoas (UFAL).
+*   📍 Maceió, Alagoas, Brasil.
+*   💡 Apaixonado pela resolução de problemas com base matemática, com interesse em otimização e algoritmos.
+*   🎙️ Nas horas vagas, sou administrador do podcast [Idoso POD+](URL_DO_PODCAST).
+
+## 📚 O que estou estudando
 
 Atualmente, meu foco na faculdade está em aprofundar meus conhecimentos nas seguintes áreas:
 
-* **Linguagem Python:** Aprimorando minhas habilidades para desenvolvimento e análise.
-* **Banco de Dados:** Entendendo como estruturar e gerenciar informações de forma eficiente, **com foco atual em MySQL**.
-* **Estrutura de Dados:** Construindo a base essencial para criar algoritmos performáticos.
+*   **Linguagem Python:** Aprimorando minhas habilidades para desenvolvimento e análise de dados.
+*   **Banco de Dados:** Entendendo como estruturar e gerenciar informações de forma eficiente, com foco atual em MySQL, aplicando em projetos de sistemas de gerenciamento.
+*   **Estrutura de Dados:** Construindo a base essencial para criar algoritmos performáticos.
 
-## Minhas Habilidades 
+## 🛠️ Minhas Habilidades
 
-Estas são as tecnologias com as quais tenho trabalhado:
+*   **Linguagens:** C, Python, Go
+*   **Banco de Dados:** MySQL
 
-*   Linguagens de Programação: C, Python, Go
+## 🏆 Projetos Destacados
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dom1ng0s&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+### 1. [RSA-Criptografia](https://github.com/Dom1ng0s/RSA-Criptografia)
 
+*   **Descrição:** Programa para criptografia e descriptografia de mensagens utilizando o algoritmo RSA. Desenvolvido como projeto final da matéria de Matemática Discreta.
+*   **Tecnologias:** Python
+*   **Status:** Concluído
 
+### 2. [FSJ](https://github.com/Dom1ng0s/FSJ)
 
+*   **Descrição:** Projeto individual para facilitar a organização de rebanhos bovinos em uma fazenda específica. O projeto será aprimorado continuamente.
+*   **Tecnologias:** Python
+*   **Status:** Em desenvolvimento
 
+## 📊 Minhas Estatísticas no GitHub
 
-## Como me encontrar
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dom1ng0s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dom1ng0s&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidomingosdeoliveira/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odomingosdavi@gmail.com)
+## 📫 Como me encontrar
 
+*   **LinkedIn:** [in/davidomingosdeoliveira](https://www.linkedin.com/in/davidomingosdeoliveira/)
+*   **Email:** odomingosdavi@gmail.com
+
+```
