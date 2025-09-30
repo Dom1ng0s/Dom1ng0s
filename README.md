@@ -12,7 +12,7 @@
 *   🎓 Estudante de Ciência da Computação na Universidade Federal de Alagoas (UFAL).
 *   📍 Maceió, Alagoas, Brasil.
 *   💡 Apaixonado pela resolução de problemas com base matemática, com interesse em otimização e algoritmos.
-*   🎙️ Nas horas vagas, sou administrador do podcast [Idoso POD+](URL_DO_PODCAST).
+*   🎙️ Nas horas vagas, sou administrador do podcast [Idoso POD+](URL_DO_PODCAST). 
 
 ## 📚 O que estou estudando
 
