@@ -44,7 +44,7 @@ Atualmente, meu foco na faculdade está em aprofundar meus conhecimentos nas seg
 ## 📊 Minhas Estatísticas no GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dom1ng0s&show_icons=true&theme=nord )](https://github.com/anuraghazra/github-readme-stats )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dom1ng0s&hide=sql&theme=nord)](https://github.com/anuraghazra/github-readme-stats )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dom1ng0s&layout=compact&hide=sql&theme=nord)](https://github.com/anuraghazra/github-readme-stats )
 
 
 
