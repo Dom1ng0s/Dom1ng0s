@@ -31,8 +31,14 @@ Sou um desenvolvedor focado em criar soluções eficientes, especialmente voltad
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dom1ng0s&theme=tokyonight" width="100%">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dom1ng0s&theme=tokyonight" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZamohtX&theme=tokyonight" height="170">
+</div>
+---
 ### 🌟 Projetos em Destaque
 
 1.  **[sistema_gado](https://github.com/Dom1ng0s/sistema_gado)**: ERP focado em performance zootécnica e financeira.
