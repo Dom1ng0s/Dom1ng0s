@@ -39,7 +39,8 @@ Sou um desenvolvedor focado em criar soluções eficientes, especialmente voltad
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZamohtX&theme=tokyonight" height="170">
 </div>
 ---
-### 🌟 Projetos em Destaque
+
+## 🌟 Projetos em Destaque
 
 1.  **[sistema_gado](https://github.com/Dom1ng0s/sistema_gado)**: ERP focado em performance zootécnica e financeira.
 2.  **[Gado-Scraper](https://github.com/Dom1ng0s/Gado-Scraper)**: Ferramenta para coleta de dados relevantes para o setor pecuário.
