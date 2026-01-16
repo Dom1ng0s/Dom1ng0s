@@ -24,16 +24,18 @@ Sou um desenvolvedor focado em criar soluções eficientes, especialmente voltad
 | **Ferramentas & OS** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> |
 | **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> |
 
+---
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dom1ng0s&theme=tokyonight" width="100%">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dom1ng0s&theme=tokyonight" height="170">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZamohtX&theme=tokyonight" height="170">
-</div>
+## 📈 Destaques do Perfil
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contribuições-350+-orange?style=for-the-badge&logo=github" alt="Contribuições">
+  <img src="https://img.shields.io/badge/Repositórios-16-blue?style=for-the-badge&logo=github" alt="Repositórios">
+  <img src="https://img.shields.io/badge/Foco-Backend-green?style=for-the-badge&logo=python" alt="Foco Backend">
+</p>
 
 ---
+
 
 ## 🌟 Projetos em Destaque
 
@@ -44,19 +46,16 @@ Sou um desenvolvedor focado em criar soluções eficientes, especialmente voltad
 
 ---
 
-### 🌐 Vamos nos conectar?
+## 🌐 Vamos nos conectar?
 
-<div align="left">
-  <a href="https://linkedin.com/in/davidomingosdeoliveira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/davidomingosdeoliveira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/davidomingos._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="mailto:odomingosdavi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="mailto:odomingosdavi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+</p>
 
 ---
 
