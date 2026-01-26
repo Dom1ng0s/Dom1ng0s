@@ -43,6 +43,7 @@ Sou um desenvolvedor focado em criar soluções eficientes, especialmente voltad
 2.  **[Gado-Scraper](https://github.com/Dom1ng0s/Gado-Scraper)**: Ferramenta para coleta de dados relevantes para o setor pecuário.
 3.  **[RSA-Criptografia](https://github.com/Dom1ng0s/RSA-Criptografia)**: Programa usado para o projeto final da matéria de Matemática Discreta.
 4.  **[Polymorph](https://github.com/Dom1ng0s/polymorph)**: Automação CLI com IA para personalização inteligente de currículos em PDF.
+5.  **[Plin](https://github.com/Dom1ng0s/Plin)**: Chatbot para Telegram focado em gestão financeira simplificada via linguagem natural.
 
 ---
 
