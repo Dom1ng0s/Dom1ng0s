@@ -85,8 +85,8 @@ Apaixonado por sistemas de alta performance, automação e IA aplicada.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dom1ng0s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dom1ng0s&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://streak-stats.demolab.com?user=Dom1ng0s&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dom1ng0s&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
